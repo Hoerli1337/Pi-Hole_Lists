@@ -1,0 +1,12 @@
+# Meine persönliche Erlaubt-Liste.
+# Domains die bei anderen Filterlisten enthalten sind, welche aber für die Funktionalität einer Webseite benötigt werden.
+# Ich habe zu den meisten Domains ein kleines Statement dazu geschrieben, welshalb sie erlaubt sein sollten.
+##################################
+# My personal whitelist.
+# Domains which are included in other filter lists, but which are needed for the functionality of a website.
+# I have written a small statement for most domains, why they should be allowed.
+#
+#
+# This list is used in my public Pi-Hole! https://hoerli.net/hoerlis-pi-holes-fuers-internet/
+#
+##################################
