@@ -10,3 +10,245 @@
 # This list is used in my public Pi-Hole! https://hoerli.net/hoerlis-pi-holes-fuers-internet/
 #
 ##################################
+
+(\.|^)lencr\.org$ # Lets Encrypt Server
+/(?:(?:auto(?:discover|config)|meine\-ip|pihole[1-4]|stats|pics|ts3)\.|(?:pihole|ts)\.|www\.)?hoerli\.net/ # My Homepage
+/(?:(?:meeting|cloud|mail|dns)\.web|w(?:eb(?:mail\.web)?|ww\.web))\-mx\.eu/ # My Mailserver
+/(?:(?:t(?:eamspeak|s3|m)|s(?:erver|rv[2-4])|bot)\.|www\.|ts\.)?gamemania\.org/ # My Gameserver
+/mts[0-9]\.google\.com/ # Used for Google Maps
+^((alt)[0-9](-))?mtalk\.google\.com$ # Used for Voice over Wifi
+5107.playfabapi.com # Used for some games
+928f6.playfabapi.com # Used for some games
+9gag.com # Was blocked
+a.tile.openstreetmap.de # OpenStreetMap Map-Server
+a1843.g1.akamai.net # CDN
+accounts.binance.com # Blocked from Crypto-Stuff
+aggregator.service.usercentrics.eu # Needed that some Android Apps works (start not possible) ... fucking trackers
+aka.ms # Short URLs by Microsoft
+amp-api-edge.apps.apple.com # Needed that Apple Devices works
+amp-api-search-edge.apps.apple.com # Needed that Apple Devices works
+android-apk.org # Blocked, dont know why
+android.clients.google.com # Online-Check by Android devices
+api.epicgames.dev # Epic Gay launcher
+api.na-backend.odysee.com # Needed that Odysee works
+api.usercentrics.eu # Needed that some Android Apps works (start not possible) ... fucking trackers
+app.diagrams.net # Its draw.io. Dont know why blocked
+app.gitbook.com # Needed that some Android Apps works (start not possible) ... fucking trackers
+app.usercentrics.eu # Needed that some Android Apps works (start not possible) ... fucking trackers
+apps.corel.com # Needed that some Android Apps works (start not possible) ... fucking trackers
+archive.mozilla.org # Firefox and Thundbird Update-Server
+aus5.mozilla.org # Firefox and Thundbird Update-Server
+b.tile.openstreetmap.de # OpenStreetMap Map-Server
+beamv3.eu.nicehash.com # Blocked because of Crypt-Stuff
+bethesda.net # Bethesda Website with ex-Launcher
+bugmenot.com # Blocked because of shared accounts
+c.paypal.com # Needed that PayPal works
+c.tile.openstreetmap.de # OpenStreetMap Map-Server
+cdn-fastly.obsproject.com # Download-Server for OBS Studio
+cdn.idealo.de # Dont know why blocked
+cdn.jsdelivr.net # Dont know why blocked
+cdn.privacy-mgmt.com # Needed that some Android Apps works (start not possible) ... fucking trackers
+cdn.ravenjs.com # Dont know why blocked
+cfg.gog.com # Needed for GOG Galaxy
+client.wns.windows.com # Windows Updates
+clientconfig.akamai.steamstatic.com # Needed for Steam Client
+clients4.google.com # Needed for Google Maps App
+cloud-3.steamusercontent.com # Needed for Steam Client
+cloudflare-ipfs.com # Dont know why blocked
+code.jquery.com # Dont know why blocked
+cognito-identity.us-east-1.amazonaws.com # Amazon Login-Stuff
+collections.md.mp.microsoft.com # Windows Updates
+contile.services.mozilla.com # Mozilla Maps Server
+crl.root-x1.letsencrypt.org.edgekey.net # Lets encrypt Check-Servers
+cs9.wac.phicdn.net # Dont know why blocked
+ctldl.windowsupdate.com # Windows Updates
+cv.phncdn.com # Dont know why blocked
+daggerhashimoto.eu.nicehash.com # Blocked because of Crypt-Stuff
+dai.ly # DailyMotion Short Links
+data-501446ac98.t-online.de # T-Online CDN
+data.amazon.de # Amazon.de CDN
+de.emp.lgsmartplatform.com # LG TV
+de.ibs.lgappstv.com # LG TV
+de.info.lgsmartad.com # LG TV
+de.lgrecommends.lgappstv.com # LG TV
+de.lgtvsdp.com # LG TV
+de.tvsdp.lgeapi.com # LG TV
+de.wikipedia.org # Dont know why Wikipedia is blocked
+detectportal.firefox.com # Firefox Update-Check
+dev.virtualearth.net # Microsoft Bing Earth Tile-Server
+displaycatalog.mp.microsoft.com # Windows Updates
+dl.delivery.mp.microsoft.com # Windows Updates
+dl.mumble.info # Official Mumble Download-Server
+dlassets-ssl.xboxlive.com # Microsoft Xbox DL-Servers
+dlc2.t-online.de # T-Online CDN
+dns.msftncsi.com # Microsoft DNS-Service
+dot.tk # Dot-TK Domains
+download.eac-cdn.com # Easy Anti-Cheat Download-Server
+download.sys.truenas.net # TrueNAS Download-Server
+download.visualstudio.microsoft.com # Microsoft Virsual Studio Server for Plugin-Downloads
+drive.google.com # Google Drive
+dropbox.com # DropBox
+dv.phncdn.com # Dont know why blocked
+download.eac-cdn.com # Easy Anti-Cheat CDN
+e1.o.lencr.org # Lets Encrypt Check-Server
+eazy.de # Dont know why blocked
+ecn.dev.virtualearth.net # Microsoft Bing Earth Tile Server
+edigital.de # Dont know why blocked
+eic-gfts.lge.com # LG TV
+eic-ngfts.lge.com # LG TV
+en.wikipedia.org # Dont know why blocked
+epdg\.epc\.mnc\d\d\d\.mcc262\.pub\.3gppnetwork\.org # Needed for Voice over Wifi (VoWLAN) on Android
+etel-tuning.eu # Dont know why blocked
+eu-auth2.samsungosp.com # Samsung Updates
+ev.phncdn.com # Dont know why blocked
+example.org # Dont know why blocked
+external-accounts.gog.com # GOG Galaxy Client
+external-users.gog.com # GOG Galaxy Client
+fe3.delivery.mp.microsoft.com # Windows Updates
+firefox-settings-attachments.cdn.mozilla.net # Needed for Mozilla Account sync
+firefox.settings.services.mozilla.com # Needed for Mozilla Account sync
+fonts.googleapis.com # Unfortunately many websites use google font instad of download them
+fonts.gstatic.com # Unfortunately many websites use google font instad of download them
+forums.ubisoft.com # Was blocked
+fs.microsoft.com # Windows Updates
+ftp.mozilla.org # Update-Server for Firefox and Thunderbird
+gamepanelx.com # Dont know why blocked
+gameplay.gog.com # GOGL Galaxy
+gateway.ipfs.io # Dont know why blocked
+gearbest.com # Dont know why blocked
+genesis.stun.eu.demonware.net # Dont know why blocked
+geo-prod.do.dsp.mp.microsoft.com # Windows Updates
+geo.prod.do.dsp.mp.microsoft.com # Windows Updates
+getgreenshot.org # Dont know why blocked
+gleam.io # Dont know why blocked
+go.microsoft.com # MS Short URL-Shit
+gosca18.ea.com # €A Server
+gosredirector.ea.com # €A Server
+i.ebayimg.com # Dont know why blocked
+i.imgur.com # Dont know why blocked
+i2.wp.com # Dont know why blocked
+iadsdk.apple.com # Needed that some Apple-Devices works
+idealo.de # Dont know why blocked
+images-3.gog-statics.com # GOG Galaxy
+images-4.gog-statics.com # GOG Galaxy
+images-eds-ssl.xboxlive.com # Micrsofot Xbox Image-Server
+images.obi.de # Dont know why blocked
+ingame-news.ubi.com # Dont know why blocked
+ipfs.io # Dont know why blocked
+ipv4only.arpa # Dont know why blocked
+ipv6.msftconnecttest.com # Windows IPv6 Test URL
+ipv6check-http.steamserver.net # Steam IPv6 Test URL
+ipv6check-udp.steamserver.net # Steam IPv6 Test URL
+ir.ebaystatic.com # Dont know why blocked
+iws.corel.com # Dont know why blocked
+la.teamspeak.com # Dont know why blocked
+laptop-updates.brave.com # Brave Browser Download URL
+lbry2.vanwanet.com # Dont know why blocked
+linuxconfig.org # Dont know why blocked
+live.thunderbird.net # Dont know why blocked
+location.services.mozilla.com # Better than Google Location Service
+login.live.com # Needed for Microsoft Logins
+manifest.googlevideo.com # Dont know why blocked
+media.xxxlutz.com # Hahaha XXX Porn haha
+media[0-9]+\.giphy\.com # Dont know why blocked
+mediaredirect.microsoft.com # Dont know why blocked
+mesg.ebay.de # Dont know why blocked
+minio1.box # Dont know why blocked
+monorail-edge.shopifysvc.com # If blocked, some shops based on shopify-crap wont work
+msftncsi.com # Dont know why blocked
+mts[0-9]\.google\.com/ # Needed for Google Map Tiles
+mts0.google.com # Needed for Google Map Tiles
+music.youtube.com # Dont know why blocked
+ngfts.lge.com # LG TV
+nicehash.com # Blocked becaus of Crypt-Stuff
+notifications-pusher.gog.com # GOG Galaxy
+notifications.gog.com # GOG Galaxy
+officeclient.microsoft.com # Needed for Outlook-Mail to work
+open.spotify.com # Needed for Spotify Client
+oss.oetiker.ch # Dont know why blocked
+outlook.office365.com # Needed for Outlook Mail to work
+pbs.twimg.com # Dont know why blocked
+pin-river.data.ea.com # €A Download Server
+play.google.com # Google Play Store
+pool.ntp.org # Dont know why NTP-Servers are blocked
+pr0gramm.com # Dont talk about it
+presence.gog.com # GOG Galaxy
+prod-data-energon.infra-ext.activision.com # Needed for Games like CoD
+push.prod.netflix.com # Apps need this Netflix Domain
+r3.o.lencr.org # Lets Encrypt Server
+raw.githubusercontent.com # Dont know why blocked
+relay-client-c07.iocnt.net # Dont know why blocked
+remote-config.gog.com # GOG Galaxy
+res.cloudinary.com # Dont know why blocked
+riotgames.com # Sometimes blocked
+rockstar-api.arkoselabs.com # Rockstar Games CDN Server
+rtm.tnt-ea.com # €A Server
+s.pwt.soundcloud.com # Needed for SoundCloud Website to work
+s3.amazonaws.com # Normal S3 Stuff by Amazon
+secure.soundcloud.com # Needed for SoundCloud Login
+secureir.ebaystatic.com # Dont know why blocked
+sf-api-token-service.itunes.apple.com # needed for iTunes Store to work
+slscr.update.microsoft.com # Windows Updates
+snu.lge.com # LG TV
+spclient.wg.spotify.com # Needed that Spotify works
+stackoverflow.com # Dont know why blocked
+static-cdn.jtvnw.net # Twitch CDN Server
+static-webservicesops.akamaized.net # Dont know why blocked
+static.classistatic.de # Dont know why blocked
+static.twitchcdn.net # Twitch CDN Servers
+static.xx.fbcdn.net # Fazebuuk static content server
+static1.dmcdn.net # DailyMotion CDN
+steamcdn-a.akamaihd.net # Steam CDN Servers
+steamcdn-a.akamaihd.net.edgesuite.net # Steam CDN Servers
+steamstore-a.akamaihd.net # Steam CDN Servers
+steamstore-a.akamaihd.net.edgesuite.net # Steam CDN Servers
+storage.googleapis.com # Google Drive
+store.steampowered.com # Steam Shop
+storeedgefd.dsx.mp.microsoft.com # Needed for some Windows Updates and MS Store App
+su-ssl.lge.com # LG TV
+südkurier (xn--sdkurier-65a) # Crapy News-Papaer
+suedkurierarchiv.blob.core.windows.net # Crapy Newspaper relys on MS
+t.me # Telegram Short Link
+t0.ssl.ak.dynamic.tiles.virtualearth.net # Microsoft Bing Maps Tile Server
+t0.ssl.ak.tiles.virtualearth.net # Microsoft Bing Maps Tile Server
+telefon-kontakte.ch # Dont know why blocked
+test.steampowered.com # Steam Testserver
+thumbnails.odycdn.com # Odysee CDN
+thumbnails.odysee.com # Odysee CDN
+thumbs.odycdn.com # Odysee CDN
+titlestorage.xboxlive.com # Image-Server for Xbox Apps
+tsfe.trafficshaping.dsp.mp.microsoft.com # CDN Server by Microsoft
+twitter.com # Sometimes you should block this
+users.gog.com # GOG Galaxy
+v.redd.it # Reddit Video Server
+vendorlist.dmcdn.net # DailyMotion CDN
+version.hybrid.api.here.com # Here Maps CDN
+vidapi1.threepi.de # Dont know why blocked
+warthunder.com # New War-Plans released
+www.adultswim.com # Dont know why blocked
+www.att.com # Dont know why blocked
+www.autoscout24.de # Dont know why blocked
+www.bing.com # better use duckduckgo or startpage
+www.cdkeys.com # Dont know why blocked
+www.digitalocean.com # Dont know why blocked
+www.dot.tk # Dont know why blocked
+www.dslreports.com # Dont know why blocked
+www.ebay.de # Dont know why blocked
+www.etel-tuning.eu # Dont know why blocked
+www.facebook.com # Sometime its better to block this
+www.finanzen.net # Dont know why blocked
+www.guitarbackingtrack.com # Dont know why blocked
+www.idealo.de # Dont know why blocked
+www.itzgeek.com # Dont know why blocked
+www.mozilla.org # Dont know why blocked
+www.msftconnecttest.com # Needed that Windows knows you have internet
+www.mumble.info # Dont know why blocked
+www.nicehash.com # Crypto-Stuff
+www.oo-software.com # Dont know why blocked
+www.riotgames.com # Dont know why blocked
+www.thomann.de # Dont know why blocked
+www.vermintide.live # Dont know why blocked
+www.xbox.com # Xbox Server
+x1.c.lencr.org # Lets Encrypt Servers
+xnotify.xboxlive.com # Xbox Server to send fried-requests and invites
+yacy.net # Dont know why blocked
