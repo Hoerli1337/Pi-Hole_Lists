@@ -177,6 +177,11 @@ www.xbox.com # Xbox Server
 xnotify.xboxlive.com # Xbox Server to send fried-requests and invites
 slscr.update.microsoft.com # Windows Updates
 static-webservicesops.akamaized.net # Dont know why blocked
+linkedin.com # Needed for LinkedIn Website to work
+www.linkedin.com # Needed for LinkedIn Website to work
+dms.licdn.com # Needed for LinkedIn Website to work
+media.licdn.com # Needed for LinkedIn Website to work
+static.licdn.com # Needed for LinkedIn Website to work
 
 # MOZILLA
 archive.mozilla.org # Firefox and Thundbird Update-Server
@@ -200,6 +205,14 @@ thumbs.odycdn.com # Odysee CDN
 a.tile.openstreetmap.de # OpenStreetMap Map-Server
 b.tile.openstreetmap.de # OpenStreetMap Map-Server
 c.tile.openstreetmap.de # OpenStreetMap Map-Server
+
+# XING
+xing.com # Needed that the Website works
+login.xing.com # Needed that the Website works
+profile-images.xing.com # Needed that the Website works
+www.xing.com # Needed that the Website works
+image-cache.xingcdn.com # Needed that the Website works
+static.xingcdn.com # Needed that the Website works
 
 # SAMSUNG
 eu-auth2.samsungosp.com # Samsung Updates
