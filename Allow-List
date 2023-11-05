@@ -206,6 +206,14 @@ a.tile.openstreetmap.de # OpenStreetMap Map-Server
 b.tile.openstreetmap.de # OpenStreetMap Map-Server
 c.tile.openstreetmap.de # OpenStreetMap Map-Server
 
+# SAMSUNG
+eu-auth2.samsungosp.com # Samsung Updates
+
+# STEAM
+ipv6check-udp.steamserver.net # IPv6 Check
+steamcloud-frf.s3.dualstack.eu-central-1.amazonaws.com # Steam Cloud Sync
+steamcloud-dub.s3.dualstack.eu-west-1.amazonaws.com # Steam Cloud Sync
+
 # XING
 xing.com # Needed that the Website works
 login.xing.com # Needed that the Website works
@@ -213,9 +221,6 @@ profile-images.xing.com # Needed that the Website works
 www.xing.com # Needed that the Website works
 image-cache.xingcdn.com # Needed that the Website works
 static.xingcdn.com # Needed that the Website works
-
-# SAMSUNG
-eu-auth2.samsungosp.com # Samsung Updates
 
 # TRACKER CRAP
 aggregator.service.usercentrics.eu # Needed that some Android Apps works (start not possible) ... fucking trackers
