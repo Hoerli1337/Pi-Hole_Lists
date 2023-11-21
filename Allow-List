@@ -32,6 +32,8 @@ cognito-identity.us-east-1.amazonaws.com # Amazon Login-Stuff
 s3.amazonaws.com # Normal S3 Stuff by Amazon
 static-cdn.jtvnw.net # Twitch CDN Server
 static.twitchcdn.net # Twitch CDN Servers
+m.media-amazon.com # Amazon Images Server
+images-eu.ssl-images-amazon.com # Amazon Images Server
 
 # APPLE
 amp-api-edge.apps.apple.com # Needed that Apple Devices works
