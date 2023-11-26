@@ -210,6 +210,7 @@ c.tile.openstreetmap.de # OpenStreetMap Map-Server
 
 # SAMSUNG
 eu-auth2.samsungosp.com # Samsung Updates
+poll.gras.samsungdm.com # Update Check
 
 # STEAM
 ipv6check-udp.steamserver.net # IPv6 Check
