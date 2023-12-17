@@ -123,6 +123,8 @@ mts0.google.com # Needed for Google Map Tiles
 music.youtube.com # Dont know why blocked
 play.google.com # Google Play Store
 storage.googleapis.com # Google Drive
+olay-fe.googleapis.com # Google Play Store
+play-lh.googleusercontent.com # Google Play Store Pictures
 
 # LETS ENCRYPT
 # (\.|^)lencr\.org$ # Lets Encrypt Server
