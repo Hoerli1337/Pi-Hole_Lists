@@ -112,6 +112,7 @@ www.vermintide.live # Dont know why blocked
 # GOOGLE
 # /mts[0-9]\.google\.com/ # WLAN Call for Android
 # ^((alt)[0-9](-))?mtalk\.google\.com$ # Used for Voice over Wifi
+alt[0-9]+-mtalk\.google\.com # Used for Voice over Wifi
 # mts[0-9]\.google\.com/ # Needed for Google Map Tiles
 android.clients.google.com # Online-Check by Android devices
 clients4.google.com # Needed for Google Maps App
