@@ -30,6 +30,7 @@ pool.ntp.org # Dont know why NTP-Servers are blocked
 data.amazon.de # Amazon.de CDN
 cognito-identity.us-east-1.amazonaws.com # Amazon Login-Stuff
 s3.amazonaws.com # Normal S3 Stuff by Amazon
+s3.eu-central-1.amazonaws.com # Normal S3 Stuff by Amazon
 static-cdn.jtvnw.net # Twitch CDN Server
 static.twitchcdn.net # Twitch CDN Servers
 m.media-amazon.com # Amazon Images Server
