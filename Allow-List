@@ -22,6 +22,13 @@
 # SMARTPHONE
 # epdg\.epc\.mnc\d\d\d\.mcc\d\d\d\.pub\.3gppnetwork\.org # Needed for Voice over Wifi (VoWLAN) on Android
 # ims\.mnc\d\d\d\.mcc\d\d\d\.pub\.3gppnetwork\.org # Needed for Voice over Wifi (VoWLAN) on Android
+## Example for Germany:
+## Telekom:
+# epdg.epc.mnc001.mcc262.pub.3gppnetwork.org
+## Vodafone:
+# epdg.epc.mnc002.mcc262.pub.3gppnetwork.org
+## O2 Telefonica
+# epdg.epc.mnc003.mcc262.pub.3gppnetwork.org
 
 # SYSTEM-DOMAINS
 ipv4only.arpa # Dont know why blocked
