@@ -20,7 +20,8 @@
 #/(?:(?:t(?:eamspeak|s3|m)|s(?:erver|rv[2-4])|bot)\.|www\.|ts\.)?gamemania\.org/ # My Gameserver
 
 # SMARTPHONE
-# epdg\.epc\.mnc\d\d\d\.mcc262\.pub\.3gppnetwork\.org # Needed for Voice over Wifi (VoWLAN) on Android
+# epdg\.epc\.mnc\d\d\d\.mcc\d\d\d\.pub\.3gppnetwork\.org # Needed for Voice over Wifi (VoWLAN) on Android
+# ims\.mnc\d\d\d\.mcc\d\d\d\.pub\.3gppnetwork\.org # Needed for Voice over Wifi (VoWLAN) on Android
 
 # SYSTEM-DOMAINS
 ipv4only.arpa # Dont know why blocked
