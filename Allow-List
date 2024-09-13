@@ -136,6 +136,7 @@ storage.googleapis.com # Google Drive
 olay-fe.googleapis.com # Google Play Store
 play-lh.googleusercontent.com # Google Play Store Pictures
 www.youtube-nocookie.com # YouTube without cookies but google tracks you anyway
+www.youtube.com # YouTube Website
 
 # KODI
 ciscobinary.openh264.org # Plugins for Kodi
