@@ -53,6 +53,8 @@ sf-api-token-service.itunes.apple.com # needed for iTunes Store to work
 # BlueSky
 bsky.app
 www.bsky.app
+cdn.bsky.app
+bsky.network
 
 # CRYPTO
 accounts.binance.com # Blocked from Crypto-Stuff
