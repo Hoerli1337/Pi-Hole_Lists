@@ -1,10 +1,12 @@
 # Meine persönliche Erlaubt-Liste.
 # Domains die bei anderen Filterlisten enthalten sind, welche aber für die Funktionalität einer Webseite benötigt werden.
 # Ich habe zu den meisten Domains ein kleines Statement dazu geschrieben, welshalb sie erlaubt sein sollten.
+# Die Liste wurde mit Pi-Hole und Technitium getestet.
 ##################################
 # My personal whitelist.
 # Domains which are included in other filter lists, but which are needed for the functionality of a website.
 # I have written a small statement for most domains, why they should be allowed.
+# The list was tested with Pi-Hole and Technitium.
 #
 #
 # This list is used in my public Pi-Hole! https://hoerli.net/hoerlis-pi-holes-fuers-internet/
@@ -15,20 +17,20 @@
 # There are regex entries available. These must be stored manually in Pi-Hole, since Pi-Hole itself cannot use regex entries by list. Regex entries are always at the top for each category.
 
 # Own Pi-Hole Server Domains
-#/(?:(?:auto(?:discover|config)|meine\-ip|pihole[1-4]|stats|pics|ts3)\.|(?:pihole|ts)\.|www\.)?hoerli\.net/ # My Homepage
-#/(?:(?:meeting|cloud|mail|dns)\.web|w(?:eb(?:mail\.web)?|ww\.web))\-mx\.eu/ # My Mailserver
-#/(?:(?:t(?:eamspeak|s3|m)|s(?:erver|rv[2-4])|bot)\.|www\.|ts\.)?gamemania\.org/ # My Gameserver
+/(?:(?:auto(?:discover|config)|meine\-ip|pihole[1-4]|stats|pics|ts3)\.|(?:pihole|ts)\.|www\.)?hoerli\.net/ # My Homepage
+/(?:(?:meeting|cloud|mail|dns)\.web|w(?:eb(?:mail\.web)?|ww\.web))\-mx\.eu/ # My Mailserver
+/(?:(?:t(?:eamspeak|s3|m)|s(?:erver|rv[2-4])|bot)\.|www\.|ts\.)?gamemania\.org/ # My Gameserver
 
 # SMARTPHONE
-# epdg\.epc\.mnc\d\d\d\.mcc\d\d\d\.pub\.3gppnetwork\.org # Needed for Voice over Wifi (VoWLAN) on Android
-# ims\.mnc\d\d\d\.mcc\d\d\d\.pub\.3gppnetwork\.org # Needed for Voice over Wifi (VoWLAN) on Android
+epdg\.epc\.mnc\d\d\d\.mcc\d\d\d\.pub\.3gppnetwork\.org # Needed for Voice over Wifi (VoWLAN) on Android
+ims\.mnc\d\d\d\.mcc\d\d\d\.pub\.3gppnetwork\.org # Needed for Voice over Wifi (VoWLAN) on Android
 ## Example for Germany:
 ## Telekom:
-# epdg.epc.mnc001.mcc262.pub.3gppnetwork.org
+epdg.epc.mnc001.mcc262.pub.3gppnetwork.org
 ## Vodafone:
-# epdg.epc.mnc002.mcc262.pub.3gppnetwork.org
+epdg.epc.mnc002.mcc262.pub.3gppnetwork.org
 ## O2 Telefonica
-# epdg.epc.mnc003.mcc262.pub.3gppnetwork.org
+epdg.epc.mnc003.mcc262.pub.3gppnetwork.org
 
 # SYSTEM-DOMAINS
 ipv4only.arpa # Dont know why blocked
@@ -125,10 +127,10 @@ prod-data-energon.infra-ext.activision.com # Needed for Games like CoD
 www.vermintide.live # Dont know why blocked
 
 # GOOGLE
-# /mts[0-9]\.google\.com/ # WLAN Call for Android
-# ^((alt)[0-9](-))?mtalk\.google\.com$ # Used for Voice over Wifi
+/mts[0-9]\.google\.com/ # WLAN Call for Android
+^((alt)[0-9](-))?mtalk\.google\.com$ # Used for Voice over Wifi
 alt[0-9]+-mtalk\.google\.com # Used for Voice over Wifi
-# mts[0-9]\.google\.com/ # Needed for Google Map Tiles
+mts[0-9]\.google\.com/ # Needed for Google Map Tiles
 www.google.de # Google for Germoney
 android.clients.google.com # Online-Check by Android devices
 clients4.google.com # Needed for Google Maps App
@@ -153,7 +155,7 @@ studio.youtube.com
 ciscobinary.openh264.org # Plugins for Kodi
 
 # LETS ENCRYPT
-# (\.|^)lencr\.org$ # Lets Encrypt Server
+(\.|^)lencr\.org$ # Lets Encrypt Server
 e1.o.lencr.org # Lets Encrypt Check-Server
 crl.root-x1.letsencrypt.org.edgekey.net # Lets encrypt Check-Servers
 r3.o.lencr.org # Lets Encrypt Server
@@ -260,7 +262,7 @@ cdn.privacy-mgmt.com # Needed that some Android Apps works (start not possible) 
 monorail-edge.shopifysvc.com # If blocked, some shops based on shopify-crap wont work
 
 # STUFF
-# media[0-9]+\.giphy\.com # Dont know why blocked
+media[0-9]+\.giphy\.com # Dont know why blocked
 android-apk.org # Blocked, dont know why
 app.diagrams.net # Its draw.io. Dont know why blocked
 app.gitbook.com # Needed that some Android Apps works (start not possible) ... fucking trackers
