@@ -133,6 +133,8 @@ alt[0-9]+-mtalk\.google\.com # Used for Voice over Wifi
 mts[0-9]\.google\.com/ # Needed for Google Map Tiles
 www.google.com # Google Search
 www.google.de # Google for Germoney
+maps.google.de # Google Maps for Germoney
+maps.google.com # Google Maps
 android.clients.google.com # Online-Check by Android devices
 clients4.google.com # Needed for Google Maps App
 drive.google.com # Google Drive
