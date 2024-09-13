@@ -131,6 +131,7 @@ www.vermintide.live # Dont know why blocked
 ^((alt)[0-9](-))?mtalk\.google\.com$ # Used for Voice over Wifi
 alt[0-9]+-mtalk\.google\.com # Used for Voice over Wifi
 mts[0-9]\.google\.com/ # Needed for Google Map Tiles
+khms[0-9]+\.google\.com # Google Maps Satellit Tiles
 www.google.com # Google Search
 www.google.de # Google for Germoney
 maps.google.de # Google Maps for Germoney
@@ -152,6 +153,9 @@ play-lh.googleusercontent.com # Google Play Store Pictures
 www.youtube-nocookie.com # YouTube without cookies but google tracks you anyway
 www.youtube.com # YouTube Website
 studio.youtube.com
+maps.gstatic.com # Stuff for Maps
+accounts.google.com # If you realy need to login
+ogs.google.com # Stuff from Google Maps
 
 
 # KODI
