@@ -167,6 +167,8 @@ studio.youtube.com
 maps.gstatic.com # Stuff for Maps
 accounts.google.com # If you realy need to login
 ogs.google.com # Stuff from Google Maps
+c.pki.goog # Google PKI Server for Certificate-Stuff
+o.pki.goog # Google PKI Server for Certificate-Stuff
 
 
 # KODI
@@ -178,6 +180,7 @@ e1.o.lencr.org # Lets Encrypt Check-Server
 crl.root-x1.letsencrypt.org.edgekey.net # Lets encrypt Check-Servers
 r3.o.lencr.org # Lets Encrypt Server
 x1.c.lencr.org # Lets Encrypt Servers
+r10.o.lencr.org # Lets Encrypt Servers
 
 # LG SMART TV
 de.emp.lgsmartplatform.com # LG TV
@@ -365,3 +368,4 @@ update.ixsystems.com # TrueNAS Update Server
 immich.app # Was added to malwaredomainlist .com but its safe
 www.immich.app # Was added to malwaredomainlist .com but its safe
 gzhls.at # Geizhals CDN
+cdn.rawgit.com # GitHub CDN
