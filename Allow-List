@@ -173,6 +173,7 @@ o.pki.goog # Google PKI Server for Certificate-Stuff
 
 # KODI
 ciscobinary.openh264.org # Plugins for Kodi
+www.mirrorservice.org # CDN for Plugins
 
 # LETS ENCRYPT
 (\.|^)lencr\.org$ # Lets Encrypt Server
