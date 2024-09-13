@@ -128,6 +128,7 @@ clients4.google.com # Needed for Google Maps App
 drive.google.com # Google Drive
 fonts.googleapis.com # Unfortunately many websites use google font instad of download them
 fonts.gstatic.com # Unfortunately many websites use google font instad of download them
+www.gstatic.com # Needed for some fonts and stuff but tracks you
 apis.google.com
 manifest.googlevideo.com # Dont know why blocked
 mts0.google.com # Needed for Google Map Tiles
