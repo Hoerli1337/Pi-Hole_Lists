@@ -136,6 +136,9 @@ storage.googleapis.com # Google Drive
 olay-fe.googleapis.com # Google Play Store
 play-lh.googleusercontent.com # Google Play Store Pictures
 
+# KODI
+ciscobinary.openh264.org # Plugins for Kodi
+
 # LETS ENCRYPT
 # (\.|^)lencr\.org$ # Lets Encrypt Server
 e1.o.lencr.org # Lets Encrypt Check-Server
