@@ -50,6 +50,10 @@ amp-api-search-edge.apps.apple.com # Needed that Apple Devices works
 iadsdk.apple.com # Needed that some Apple-Devices works
 sf-api-token-service.itunes.apple.com # needed for iTunes Store to work
 
+# BlueSky
+bsky.app
+www.bsky.app
+
 # CRYPTO
 accounts.binance.com # Blocked from Crypto-Stuff
 beamv3.eu.nicehash.com # Blocked because of Crypt-Stuff
