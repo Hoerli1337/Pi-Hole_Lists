@@ -201,7 +201,7 @@ a1843.g1.akamai.net # CDN
 aka.ms # Short URLs by Microsoft
 client.wns.windows.com # Windows Updates
 collections.md.mp.microsoft.com # Microsoft Store / Xbox Games
-ctldl.windowsupdate.com # Windows Updates
+ctldl.windowsupdate.com # Windows Updates Certificate Trust
 dev.virtualearth.net # Microsoft Bing Earth Tile-Server
 displaycatalog.mp.microsoft.com # Windows Updates
 dl.delivery.mp.microsoft.com # Windows Updates
@@ -210,21 +210,30 @@ download.visualstudio.microsoft.com # Microsoft Virsual Studio Server for Plugin
 ecn.dev.virtualearth.net # Microsoft Bing Earth Tile Server
 dns.msftncsi.com # Microsoft DNS-Service
 fe3.delivery.mp.microsoft.com # Windows Updates
+fe3cr.delivery.mp.microsoft.com # Systemupdates from Store
 fs.microsoft.com # Windows Updates
 geo.prod.do.dsp.mp.microsoft.com # Windows Updates
 go.microsoft.com # MS Short URL-Shit
 images-eds-ssl.xboxlive.com # Micrsofot Xbox Image-Server
 ipv6.msftconnecttest.com # Windows IPv6 Test URL
 login.live.com # Needed for Microsoft Logins
+login.microsoftonline.com # Needed for Microsoft Logins
 mediaredirect.microsoft.com # Dont know why blocked
 msftncsi.com # Dont know why blocked
 officeclient.microsoft.com # Needed for Outlook-Mail to work
 outlook.office365.com # Needed for Outlook Mail to work
 storeedgefd.dsx.mp.microsoft.com # Needed for some Windows Updates and MS Store App
+slscr.update.microsoft.com # Windows Update
 t0.ssl.ak.dynamic.tiles.virtualearth.net # Microsoft Bing Maps Tile Server
 t0.ssl.ak.tiles.virtualearth.net # Microsoft Bing Maps Tile Server
 titlestorage.xboxlive.com # Image-Server for Xbox Apps
+tlu.dl.delivery.mp.microsoft.com # Systemupdates from Store
 tsfe.trafficshaping.dsp.mp.microsoft.com # CDN Server by Microsoft
+windowsupdate.com # Windows Updates
+1.au.download.windowsupdate.com # Windows Updates
+2.au.download.windowsupdate.com # Windows Updates
+3.au.download.windowsupdate.com # Windows Updates
+4.au.download.windowsupdate.com # Windows Updates
 www.bing.com # better use duckduckgo or startpage
 www.msftconnecttest.com # Needed that Windows knows you have internet
 www.xbox.com # Xbox Server
