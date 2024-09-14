@@ -116,6 +116,7 @@ test.steampowered.com # Steam Testserver
 download.eac-cdn.com # Easy Anti-Cheat CDN
 forums.ubisoft.com # Was blocked
 ingame-news.ubi.com # Dont know why blocked
+ubistatic2-a.akamaihd.net # Ubisoft Store
 gosca18.ea.com # €A Server
 gosredirector.ea.com # €A Server
 pin-river.data.ea.com # €A Download Server
@@ -168,6 +169,7 @@ play-lh.googleusercontent.com # Google Play Store Pictures
 pki-goog.l.google.com # Google PKI
 www.youtube-nocookie.com # YouTube without cookies but google tracks you anyway
 www.youtube.com # YouTube Website
+img.youtube.com # YouTube Thumbnails
 studio.youtube.com
 maps.gstatic.com # Stuff for Maps
 accounts.google.com # If you realy need to login
