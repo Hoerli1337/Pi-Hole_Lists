@@ -120,6 +120,8 @@ gosca18.ea.com # €A Server
 gosredirector.ea.com # €A Server
 pin-river.data.ea.com # €A Download Server
 rtm.tnt-ea.com # €A Server
+origin-a.akamaihd.net # €A Launcher Update
+app-images.ea.com # €A Store Images
 www.riotgames.com # Dont know why blocked
 riotgames.com # Sometimes blocked
 rockstar-api.arkoselabs.com # Rockstar Games CDN Server
@@ -161,7 +163,9 @@ music.youtube.com # Dont know why blocked
 play.google.com # Google Play Store
 storage.googleapis.com # Google Drive
 olay-fe.googleapis.com # Google Play Store
+crl.pki.goog # Google PKI
 play-lh.googleusercontent.com # Google Play Store Pictures
+pki-goog.l.google.com # Google PKI
 www.youtube-nocookie.com # YouTube without cookies but google tracks you anyway
 www.youtube.com # YouTube Website
 studio.youtube.com
