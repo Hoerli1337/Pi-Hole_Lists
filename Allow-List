@@ -155,6 +155,7 @@ fonts.gstatic.com # Unfortunately many websites use google font instad of downlo
 www.gstatic.com # Needed for some fonts and stuff but tracks you
 apis.google.com
 manifest.googlevideo.com # Dont know why blocked
+mtalk.google.com # Needed for Wifi-Call
 mts0.google.com # Needed for Google Map Tiles
 music.youtube.com # Dont know why blocked
 play.google.com # Google Play Store
@@ -197,6 +198,7 @@ su-ssl.lge.com # LG TV
 snu.lge.com # LG TV
 
 # MICROSOFT
+ajax.aspnetcdn.com # MS AJAX CDN
 a1843.g1.akamai.net # CDN
 aka.ms # Short URLs by Microsoft
 client.wns.windows.com # Windows Updates
@@ -215,12 +217,15 @@ fs.microsoft.com # Windows Updates
 geo.prod.do.dsp.mp.microsoft.com # Windows Updates
 go.microsoft.com # MS Short URL-Shit
 images-eds-ssl.xboxlive.com # Micrsofot Xbox Image-Server
+inbox.assist.gameservices.xboxlive.com # XBOX Stuff
 ipv6.msftconnecttest.com # Windows IPv6 Test URL
 login.live.com # Needed for Microsoft Logins
 login.microsoftonline.com # Needed for Microsoft Logins
 mediaredirect.microsoft.com # Dont know why blocked
+msedge.api.cdp.microsoft.com # Microsoft Edge WebView2 Update
 msftncsi.com # Dont know why blocked
 officeclient.microsoft.com # Needed for Outlook-Mail to work
+oneocsp.microsoft.com # Azure PKI
 outlook.office365.com # Needed for Outlook Mail to work
 storeedgefd.dsx.mp.microsoft.com # Needed for some Windows Updates and MS Store App
 slscr.update.microsoft.com # Windows Update
@@ -277,6 +282,10 @@ poll.gras.samsungdm.com # Update Check
 ipv6check-udp.steamserver.net # IPv6 Check
 steamcloud-frf.s3.dualstack.eu-central-1.amazonaws.com # Steam Cloud Sync
 steamcloud-dub.s3.dualstack.eu-west-1.amazonaws.com # Steam Cloud Sync
+shared.akamai.steamstatic.com # Store Stuff
+steamcommunity-a.akamaihd.net # Store and Community Stuff
+shared.steamstatic.com # Store Stuff
+avatars.akamai.steamstatic.com # Avatar-Server
 
 # XING
 xing.com # Needed that the Website works
