@@ -404,3 +404,5 @@ www.immich.app # Was added to malwaredomainlist .com but its safe
 gzhls.at # Geizhals CDN
 cdn.rawgit.com # GitHub CDN
 cs3.wettercomassets.com # WetterCom Assets like pics css and stuff
+cdn.static-fra.de # VideoCDN for weather
+aiswetter-a.akamaihd.net # VideoCDN for weather
