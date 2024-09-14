@@ -180,9 +180,18 @@ www.mirrorservice.org # CDN for Plugins
 (\.|^)lencr\.org$ # Lets Encrypt Server
 e1.o.lencr.org # Lets Encrypt Check-Server
 crl.root-x1.letsencrypt.org.edgekey.net # Lets encrypt Check-Servers
-r3.o.lencr.org # Lets Encrypt Server
 x1.c.lencr.org # Lets Encrypt Servers
+r1.o.lencr.org # Lets Encrypt Server
+r2.o.lencr.org # Lets Encrypt Server
+r3.o.lencr.org # Lets Encrypt Server
+r4.o.lencr.org # Lets Encrypt Server
+r5.o.lencr.org # Lets Encrypt Server
+r6.o.lencr.org # Lets Encrypt Server
+r7.o.lencr.org # Lets Encrypt Server
+r8.o.lencr.org # Lets Encrypt Server
+r9.o.lencr.org # Lets Encrypt Server
 r10.o.lencr.org # Lets Encrypt Servers
+r11.o.lencr.org # Lets Encrypt Servers
 
 # LG SMART TV
 de.emp.lgsmartplatform.com # LG TV
