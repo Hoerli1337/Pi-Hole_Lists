@@ -265,6 +265,10 @@ www.linkedin.com # Needed for LinkedIn Website to work
 dms.licdn.com # Needed for LinkedIn Website to work
 media.licdn.com # Needed for LinkedIn Website to work
 static.licdn.com # Needed for LinkedIn Website to work
+minecraft.net # Minecraft Website
+www.minecraft.net # Minecraft Website
+www.minecraft.net-v1.edgesuite.net # Minecraft Website
+fpt.microsoft.com # M$ Login for Xbox
 
 # MOZILLA
 archive.mozilla.org # Firefox and Thundbird Update-Server
