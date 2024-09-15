@@ -407,3 +407,5 @@ cs3.wettercomassets.com # WetterCom Assets like pics css and stuff
 cdn.static-fra.de # VideoCDN for weather
 aiswetter-a.akamaihd.net # VideoCDN for weather
 github.com # Sometimes github is blocked on some other lists
+github.githubassets.com # Sometimes github is blocked on some other lists
+avatars.githubusercontent.com # Sometimes github is blocked on some other lists
