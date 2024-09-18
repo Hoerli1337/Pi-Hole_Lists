@@ -129,6 +129,7 @@ rockstar-api.arkoselabs.com # Rockstar Games CDN Server
 prod-data-energon.infra-ext.activision.com # Needed for Games like CoD
 www.vermintide.live # Dont know why blocked
 
+
 # GOOGLE
 /mts[0-9]\.google\.com/ # WLAN Call for Android
 ^((alt)[0-9](-))?mtalk\.google\.com$ # Used for Voice over Wifi
@@ -171,6 +172,7 @@ www.youtube-nocookie.com # YouTube without cookies but google tracks you anyway
 www.youtube.com # YouTube Website
 img.youtube.com # YouTube Thumbnails
 studio.youtube.com
+youtube-ui.l.google.com # YouTube 
 maps.gstatic.com # Stuff for Maps
 accounts.google.com # If you realy need to login
 ogs.google.com # Stuff from Google Maps
