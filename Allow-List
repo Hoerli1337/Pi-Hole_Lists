@@ -171,6 +171,8 @@ pki-goog.l.google.com # Google PKI
 www.youtube-nocookie.com # YouTube without cookies but google tracks you anyway
 www.youtube.com # YouTube Website
 img.youtube.com # YouTube Thumbnails
+accounts.youtube.com # Needed for YT-Acc Login with Google Services
+jnn-pa.googleapis.com # Some Script-Stuff that blocks some videos and livestreams on youtube if domain is blocked
 studio.youtube.com
 upload.youtube.com # Video-Upload
 youtube-ui.l.google.com # YouTube 
@@ -179,6 +181,11 @@ accounts.google.com # If you realy need to login
 ogs.google.com # Stuff from Google Maps
 c.pki.goog # Google PKI Server for Certificate-Stuff
 o.pki.goog # Google PKI Server for Certificate-Stuff
+store.google.com # Google Store
+support.google.com # Google Support Page
+takeout.google.com # Google Data Export
+workspace.google.com # Needed for some GMail-Stuff and for Work-Stuff
+about.google # Learn more about stealing user-data
 
 
 # KODI
