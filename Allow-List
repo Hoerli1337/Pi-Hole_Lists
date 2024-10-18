@@ -159,6 +159,8 @@ fonts.gstatic.com # Unfortunately many websites use google font instad of downlo
 www.gstatic.com # Needed for some fonts and stuff but tracks you
 apis.google.com
 manifest.googlevideo.com # Dont know why blocked
+trends.google.de # Google Trends Search
+trends.google.com # Google Trends Search
 mtalk.google.com # Needed for Wifi-Call
 mts0.google.com # Needed for Google Map Tiles
 music.youtube.com # Dont know why blocked
