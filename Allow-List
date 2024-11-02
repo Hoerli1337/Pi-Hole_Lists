@@ -117,6 +117,7 @@ download.eac-cdn.com # Easy Anti-Cheat CDN
 forums.ubisoft.com # Was blocked
 ingame-news.ubi.com # Dont know why blocked
 ubistatic2-a.akamaihd.net # Ubisoft Store
+uplaypc-s-ubisoft.cdn.ubi.com # Ubisoft Update Server
 gosca18.ea.com # €A Server
 gosredirector.ea.com # €A Server
 pin-river.data.ea.com # €A Download Server
@@ -439,3 +440,4 @@ aiswetter-a.akamaihd.net # VideoCDN for weather
 github.com # Sometimes github is blocked on some other lists
 github.githubassets.com # Sometimes github is blocked on some other lists
 avatars.githubusercontent.com # Sometimes github is blocked on some other lists
+cfbeta.razersynapse.com # Razer Synapse Download Server
