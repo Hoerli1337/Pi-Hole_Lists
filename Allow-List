@@ -441,3 +441,5 @@ github.com # Sometimes github is blocked on some other lists
 github.githubassets.com # Sometimes github is blocked on some other lists
 avatars.githubusercontent.com # Sometimes github is blocked on some other lists
 cfbeta.razersynapse.com # Razer Synapse Download Server
+www.balena.io # On some blocklists
+etcher.balena.io # On some blocklists
