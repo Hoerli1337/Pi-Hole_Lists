@@ -197,7 +197,9 @@ android.com # Android Homepage
 forms.gle # Google Forms Short-Link
 docs.google.com # Google Docs
 pagespeed.web.dev # Page Speed Test
-
+dl.google.com # Download-Server for Software
+redirector.gvt1.com	
+lens.google.com	# Google Lense
 
 # KODI
 ciscobinary.openh264.org # Plugins for Kodi
@@ -322,6 +324,11 @@ c.tile.openstreetmap.de # OpenStreetMap Map-Server
 eu-auth2.samsungosp.com # Samsung Updates
 poll.gras.samsungdm.com # Update Check
 
+# SIGNAL APP
+signal.org
+chat.signal.org
+storage.signal.org
+
 # STEAM
 ipv6check-udp.steamserver.net # IPv6 Check
 steamcloud-frf.s3.dualstack.eu-central-1.amazonaws.com # Steam Cloud Sync
@@ -359,6 +366,7 @@ cdn.idealo.de # Dont know why blocked
 cdn.jsdelivr.net # Dont know why blocked
 cdn.ravenjs.com # Dont know why blocked
 cloudflare-ipfs.com # Dont know why blocked
+a.nel.cloudflare.com
 code.jquery.com # Dont know why blocked
 cs9.wac.phicdn.net # Dont know why blocked
 cv.phncdn.com # Dont know why blocked
@@ -403,6 +411,7 @@ relay-client-c07.iocnt.net # Dont know why blocked
 res.cloudinary.com # Dont know why blocked
 s.pwt.soundcloud.com # Needed for SoundCloud Website to work
 secure.soundcloud.com # Needed for SoundCloud Login
+api.soundcloud.com # API needed for Login
 stackoverflow.com # Dont know why blocked
 static.classistatic.de # Dont know why blocked
 südkurier (xn--sdkurier-65a) # Crapy News-Papaer
@@ -448,3 +457,6 @@ www.balena.io # On some blocklists
 etcher.balena.io # On some blocklists
 acme.zerossl.com # For ACME Script
 web.archive.org # Sometimes blocked
+publist.mumble.info	# Mumble Website
+mumble.info	# Mumble Website
+w3s.link # Learn coding
