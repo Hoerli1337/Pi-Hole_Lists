@@ -308,6 +308,7 @@ ftp.mozilla.org # Update-Server for Firefox and Thunderbird
 live.thunderbird.net # Dont know why blocked
 location.services.mozilla.com # Better than Google Location Service
 www.mozilla.org # Dont know why blocked
+tracking-protection.cdn.mozilla.net # Mozilla Tracking Protection
 
 # ODYSEE
 api.na-backend.odysee.com # Needed that Odysee works
@@ -460,3 +461,4 @@ web.archive.org # Sometimes blocked
 publist.mumble.info	# Mumble Website
 mumble.info	# Mumble Website
 w3s.link # Learn coding
+dl.dropboxusercontent.com # DropBox
