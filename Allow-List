@@ -339,6 +339,15 @@ steamcommunity-a.akamaihd.net # Store and Community Stuff
 shared.steamstatic.com # Store Stuff
 avatars.akamai.steamstatic.com # Avatar-Server
 
+# UBIQUITY
+www.ui.com # Website
+store.ui.com # Website
+svc.ui.com # Website
+sso.ui.com # Website Login
+account.ui.com # Website Login
+dl.ui.com # Firmware Updates
+fw-download.ubnt.com # Firmware Updates
+
 # XING
 xing.com # Needed that the Website works
 login.xing.com # Needed that the Website works
