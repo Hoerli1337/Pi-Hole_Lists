@@ -88,10 +88,13 @@ etel-tuning.eu # Dont know why blocked
 www.etel-tuning.eu # Dont know why blocked
 
 # GAMING
+# STUFF
 5107.playfabapi.com # Used for some games
 928f6.playfabapi.com # Used for some games
+# EPIC GAyMES
 api.epicgames.dev # Epic Gay launcher
 bethesda.net # Bethesda Website with ex-Launcher
+# CD PROJECT RED GOG
 cfg.gog.com # Needed for GOG Galaxy
 external-accounts.gog.com # GOG Galaxy Client
 external-users.gog.com # GOG Galaxy Client
@@ -103,6 +106,7 @@ notifications.gog.com # GOG Galaxy
 presence.gog.com # GOG Galaxy
 remote-config.gog.com # GOG Galaxy
 users.gog.com # GOG Galaxy
+# STEAM
 clientconfig.akamai.steamstatic.com # Needed for Steam Client
 cloud-3.steamusercontent.com # Needed for Steam Client
 ipv6check-http.steamserver.net # Steam IPv6 Test URL
@@ -114,21 +118,27 @@ steamstore-a.akamaihd.net.edgesuite.net # Steam CDN Servers
 store.steampowered.com # Steam Shop
 test.steampowered.com # Steam Testserver
 download.eac-cdn.com # Easy Anti-Cheat CDN
+# UBISOFT
 forums.ubisoft.com # Was blocked
 ingame-news.ubi.com # Dont know why blocked
 ubistatic2-a.akamaihd.net # Ubisoft Store
 uplaypc-s-ubisoft.cdn.ubi.com # Ubisoft Update Server
+# €A
 gosca18.ea.com # €A Server
 gosredirector.ea.com # €A Server
 pin-river.data.ea.com # €A Download Server
 rtm.tnt-ea.com # €A Server
 origin-a.akamaihd.net # €A Launcher Update
 app-images.ea.com # €A Store Images
+eaanticheat.ac.ea.com # Nutzloser AntiCheat von €A
+service-aggregation-layer.juno.ea.com # Braucht man fuer Spiele
+# RIOTGAMES
 www.riotgames.com # Dont know why blocked
 riotgames.com # Sometimes blocked
 rockstar-api.arkoselabs.com # Rockstar Games CDN Server
 prod-data-energon.infra-ext.activision.com # Needed for Games like CoD
 www.vermintide.live # Dont know why blocked
+
 
 
 # GOOGLE
@@ -296,6 +306,7 @@ fpt.live.com # M$ Login for Xbox
 www-xboxab-com.e-0012.e-msedge.net # M$ Login for Xbox
 download.sysinternals.com # Verry good Tools
 sysinternals.com # Verry good Tools
+settings-win.data.microsoft.com # MS Login in Apps
 
 # MOZILLA
 archive.mozilla.org # Firefox and Thundbird Update-Server
@@ -479,3 +490,6 @@ www.menti.com # Wird bei manchen gerne als aktive Umfrage genutzt
 realtime.ably.menti.com
 images.mentimeter.com
 static.mentimeter.com
+crl.globalsign.com # SSL-Zertifikat Sperrlisten - Sind wichtig
+crl.globalsign.net # SSL-Zertifikat Sperrlisten - Sind wichtig
+secure.globalsign.com # SSL-Zertifikat Sperrlisten - Sind wichtig
