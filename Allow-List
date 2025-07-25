@@ -134,6 +134,13 @@ eaanticheat.ac.ea.com # Nutzloser AntiCheat von €A
 service-aggregation-layer.juno.ea.com # Braucht man fuer Spiele
 activate.ea.com # Game Aktivierung
 proxy.novafusion.ea.com # Game Aktivierung
+nds-network-nav.ea.com # Website Data
+media.contentapi.ea.com # Website Data
+cloudsync.juno.ea.com # Cloud Sync Service
+eaaccounts.akamaized.net # Login Service
+eacommerce.akamaized.net # Website Data
+myaccount.ea.com # €A Account
+beaconpush.battlelog.com # Battlefield 3 Battlelog
 # RIOTGAMES
 www.riotgames.com # Dont know why blocked
 riotgames.com # Sometimes blocked
