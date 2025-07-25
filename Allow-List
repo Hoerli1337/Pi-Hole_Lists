@@ -141,6 +141,10 @@ eaaccounts.akamaized.net # Login Service
 eacommerce.akamaized.net # Website Data
 myaccount.ea.com # €A Account
 beaconpush.battlelog.com # Battlefield 3 Battlelog
+bf4.gos.ea.com # Battlefield 4 Gameservice
+sparta-gw-bf4.battlelog.com # Battlefield 4 Gameservice
+eaavatarservice.akamaized.net # Die haesslichen Bildchen
+eaassets-a.akamaihd.net # Bilder im Spiel
 # RIOTGAMES
 www.riotgames.com # Dont know why blocked
 riotgames.com # Sometimes blocked
