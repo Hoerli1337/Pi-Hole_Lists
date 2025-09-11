@@ -223,6 +223,7 @@ pagespeed.web.dev # Page Speed Test
 dl.google.com # Download-Server for Software
 redirector.gvt1.com	
 lens.google.com	# Google Lense
+play-fe.googleapis.com # Google Play Store
 
 # KODI
 ciscobinary.openh264.org # Plugins for Kodi
