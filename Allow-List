@@ -393,6 +393,26 @@ api.usercentrics.eu # Needed that some Android Apps works (start not possible) .
 cdn.privacy-mgmt.com # Needed that some Android Apps works (start not possible) ... fucking trackers
 monorail-edge.shopifysvc.com # If blocked, some shops based on shopify-crap wont work
 
+# ZDF MEDIATHEK
+zdf.de
+abgroup.zdf.de
+api-settings.zdf.de
+cmp2.zdf.de
+epg-image.zdf.de
+ngp.zdf.de
+pvstreaming.zdf.de
+segmeents.zdf.de
+ssl.zdf.de
+www.zdf.de
+nrodlzdf-a.akamaihd.net
+zdfvod-pckgr.akamaized.net
+zdfvod.akamaized.net
+zdfvod-rwrtr.akamaized.net
+zdf-hls-15.akamaized.net
+zdf-prod-futura.zdf.de
+utstreaming.zdf.de
+api.zdf.de
+
 # STUFF
 media[0-9]+\.giphy\.com # Dont know why blocked
 android-apk.org # Blocked, dont know why
