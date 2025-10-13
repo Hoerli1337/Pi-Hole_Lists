@@ -52,6 +52,41 @@ amp-api-search-edge.apps.apple.com # Needed that Apple Devices works
 iadsdk.apple.com # Needed that some Apple-Devices works
 sf-api-token-service.itunes.apple.com # needed for iTunes Store to work
 
+# ARD - DAS ERSTE
+ard.de
+www.ard.de
+sand.ard.de
+sand-hub.ard.de
+programm-api.ard.de
+ardaudiothek.de
+api.ardaudiothek.de
+ardmediathek.de
+api.ardmediathek.de
+www.ardmediathek.de
+daserste.de
+www.daserste.de
+newscrawl.daserste.de
+sportschau.de
+images.sportschau.de
+www.sportschau.de
+tagesschau.de
+images.tagesschau.de
+www.tagesschau.de
+mdrvod-pckgr.akamaized.net
+mdrvod-rwrtr.akamaized.net
+mdronline-vh.akamaihd.de
+brvod-pckgr.akamaized.net
+brvod-rwrtr.akamaized.net
+br-i.akamaihd.net
+swrvod-rwrtr.akamaized.net
+br.de
+cdn-storage.br.de
+ard-mcdn.de
+daserste-live.ard.mcdn.de
+swr.de
+av-adaptive.swr.de
+swrvod-pckgr.akamaized.net
+
 # BlueSky
 bsky.app
 www.bsky.app
