@@ -105,6 +105,10 @@ dai.ly # DailyMotion Short Links
 static1.dmcdn.net # DailyMotion CDN
 vendorlist.dmcdn.net # DailyMotion CDN
 
+# DHL DEUTSCHLAND
+dhl.de
+www.dhl.de
+
 # EBAY
 i.ebayimg.com # Dont know why blocked
 ir.ebaystatic.com # Dont know why blocked
@@ -259,6 +263,13 @@ dl.google.com # Download-Server for Software
 redirector.gvt1.com	
 lens.google.com	# Google Lense
 play-fe.googleapis.com # Google Play Store
+
+# HERMES
+myhermes.de
+www.myhermes.de
+my-deliveries.de
+api.my-deliveries.de
+gcp-prd.my-deliveries.de
 
 # KODI
 ciscobinary.openh264.org # Plugins for Kodi
