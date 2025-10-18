@@ -393,6 +393,9 @@ api-news.netatmo.net
 settings.netatmo.net
 myconnectedaccount.netatmo.com
 tiles.stadiamaps.com
+static.netatmo.com
+auth.netatmo.com
+home.netatmo.com
 
 # ODYSEE
 api.na-backend.odysee.com # Needed that Odysee works
