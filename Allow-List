@@ -387,6 +387,13 @@ location.services.mozilla.com # Better than Google Location Service
 www.mozilla.org # Dont know why blocked
 tracking-protection.cdn.mozilla.net # Mozilla Tracking Protection
 
+# NETATMO
+app.netatmo.net
+api-news.netatmo.net
+settings.netatmo.net
+myconnectedaccount.netatmo.com
+tiles.stadiamaps.com
+
 # ODYSEE
 api.na-backend.odysee.com # Needed that Odysee works
 lbry2.vanwanet.com # Needed that Odysee works
