@@ -397,6 +397,11 @@ static.netatmo.com
 auth.netatmo.com
 home.netatmo.com
 
+# NVIDIA
+gfwsl.geforce.com # Driver-Download
+images.nvidia.com
+www.nvidia.com
+
 # ODYSEE
 api.na-backend.odysee.com # Needed that Odysee works
 lbry2.vanwanet.com # Needed that Odysee works
