@@ -594,3 +594,7 @@ static.mentimeter.com
 crl.globalsign.com # SSL-Zertifikat Sperrlisten - Sind wichtig
 crl.globalsign.net # SSL-Zertifikat Sperrlisten - Sind wichtig
 secure.globalsign.com # SSL-Zertifikat Sperrlisten - Sind wichtig
+ocsp.usertrust.com # SSL-Zertifikat Sperrlisten - Sind wichtig
+ocsp.sectigo.com # SSL-Zertifikat Sperrlisten - Sind wichtig
+ocsp.comodoca.com # SSL-Zertifikat Sperrlisten - Sind wichtig
+ocsp.digicert.com # SSL-Zertifikat Sperrlisten - Sind wichtig
