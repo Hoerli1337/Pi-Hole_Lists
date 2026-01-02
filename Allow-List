@@ -409,9 +409,8 @@ thumbnails.odysee.com # Odysee CDN
 thumbs.odycdn.com # Odysee CDN
 
 # OPENSTREETMAP
-a.tile.openstreetmap.de # OpenStreetMap Map-Server
-b.tile.openstreetmap.de # OpenStreetMap Map-Server
-c.tile.openstreetmap.de # OpenStreetMap Map-Server
+tile.openstreetmap.de # OpenStreetMap Map-Server
+tile.openstreetmap.org # OpenStreetMap Map-Server
 
 # SAMSUNG
 eu-auth2.samsungosp.com # Samsung Updates
@@ -473,6 +472,15 @@ zdf-hls-15.akamaized.net
 zdf-prod-futura.zdf.de
 utstreaming.zdf.de
 api.zdf.de
+
+# ZERTIFIKATE
+crl.globalsign.com # SSL-Zertifikat Sperrlisten - Sind wichtig
+crl.globalsign.net # SSL-Zertifikat Sperrlisten - Sind wichtig
+secure.globalsign.com # SSL-Zertifikat Sperrlisten - Sind wichtig
+ocsp.usertrust.com # SSL-Zertifikat Sperrlisten - Sind wichtig
+ocsp.sectigo.com # SSL-Zertifikat Sperrlisten - Sind wichtig
+ocsp.comodoca.com # SSL-Zertifikat Sperrlisten - Sind wichtig
+ocsp.digicert.com # SSL-Zertifikat Sperrlisten - Sind wichtig
 
 # STUFF
 media[0-9]+\.giphy\.com # Dont know why blocked
@@ -591,11 +599,4 @@ www.menti.com # Wird bei manchen gerne als aktive Umfrage genutzt
 realtime.ably.menti.com
 images.mentimeter.com
 static.mentimeter.com
-crl.globalsign.com # SSL-Zertifikat Sperrlisten - Sind wichtig
-crl.globalsign.net # SSL-Zertifikat Sperrlisten - Sind wichtig
-secure.globalsign.com # SSL-Zertifikat Sperrlisten - Sind wichtig
-ocsp.usertrust.com # SSL-Zertifikat Sperrlisten - Sind wichtig
-ocsp.sectigo.com # SSL-Zertifikat Sperrlisten - Sind wichtig
-ocsp.comodoca.com # SSL-Zertifikat Sperrlisten - Sind wichtig
-ocsp.digicert.com # SSL-Zertifikat Sperrlisten - Sind wichtig
 img01.ztat.net # Zalando Bilder CDN
