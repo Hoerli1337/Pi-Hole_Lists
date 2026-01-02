@@ -481,6 +481,7 @@ ocsp.usertrust.com # SSL-Zertifikat Sperrlisten - Sind wichtig
 ocsp.sectigo.com # SSL-Zertifikat Sperrlisten - Sind wichtig
 ocsp.comodoca.com # SSL-Zertifikat Sperrlisten - Sind wichtig
 ocsp.digicert.com # SSL-Zertifikat Sperrlisten - Sind wichtig
+acme.zerossl.com # For ACME Script
 
 # STUFF
 media[0-9]+\.giphy\.com # Dont know why blocked
@@ -585,7 +586,6 @@ avatars.githubusercontent.com # Sometimes github is blocked on some other lists
 cfbeta.razersynapse.com # Razer Synapse Download Server
 www.balena.io # On some blocklists
 etcher.balena.io # On some blocklists
-acme.zerossl.com # For ACME Script
 web.archive.org # Sometimes blocked
 publist.mumble.info	# Mumble Website
 mumble.info	# Mumble Website
