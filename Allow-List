@@ -598,3 +598,4 @@ ocsp.usertrust.com # SSL-Zertifikat Sperrlisten - Sind wichtig
 ocsp.sectigo.com # SSL-Zertifikat Sperrlisten - Sind wichtig
 ocsp.comodoca.com # SSL-Zertifikat Sperrlisten - Sind wichtig
 ocsp.digicert.com # SSL-Zertifikat Sperrlisten - Sind wichtig
+img01.ztat.net # Zalando Bilder CDN
