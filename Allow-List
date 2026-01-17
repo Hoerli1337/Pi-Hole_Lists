@@ -199,6 +199,7 @@ www.vermintide.live # Dont know why blocked
 alt[0-9]+-mtalk\.google\.com # Used for Voice over Wifi
 mts[0-9]\.google\.com/ # Needed for Google Map Tiles
 khms[0-9]+\.google\.com # Google Maps Satellit Tiles
+([0-9]+([A-Za-z]+[0-9]+)+)-dnsotls-ds\.metric\.gstatic\.com # DoT-Check
 www.google.com # Google Search
 www.google.de # Google for Germoney
 maps.google.de # Google Maps for Germoney
