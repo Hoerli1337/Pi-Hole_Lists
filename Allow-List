@@ -432,13 +432,18 @@ shared.steamstatic.com # Store Stuff
 avatars.akamai.steamstatic.com # Avatar-Server
 
 # UBIQUITY
-www.ui.com # Website
+www.ui.com # Website und Firmware-Download-Repo
 store.ui.com # Website
 svc.ui.com # Website
 sso.ui.com # Website Login
 account.ui.com # Website Login
 dl.ui.com # Firmware Updates
-fw-download.ubnt.com # Firmware Updates
+static.ubnt.com # Vermutlich fuer Bilder, Schriftarten, JavaScript, JSON-Zeugs
+fw-update.ubnt.com  # Firmware-Checker
+fw-update.ui.com # Firmware-Checker
+static.ui.com # Bilder, Schriftarten, JavaScript, JSON-Zeugs
+# config.ubnt.com # Wer es offline nutzt, laesst es geblockt
+# crash-report-service.svc.ui.com # Crash Service Telemetrie
 
 # XING
 xing.com # Needed that the Website works
