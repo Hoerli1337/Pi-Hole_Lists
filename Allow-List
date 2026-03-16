@@ -245,6 +245,7 @@ youtube-ui.l.google.com # YouTube
 maps.gstatic.com # Stuff for Maps
 accounts.google.com # If you realy need to login
 ogs.google.com # Stuff from Google Maps
+mapsmobilesdks-pa.googleapis.com # Brauchen andere Apps wenn sie G-Maps eingebaut haben - total dumm aber naja, sollen lieber OSM nutzen
 c.pki.goog # Google PKI Server for Certificate-Stuff
 o.pki.goog # Google PKI Server for Certificate-Stuff
 store.google.com # Google Store
