@@ -266,6 +266,11 @@ redirector.gvt1.com
 lens.google.com	# Google Lense
 play-fe.googleapis.com # Google Play Store
 
+# GRAPHENOS
+connectivitycheck.grapheneos.network
+grapheneos.online
+supl.grapheneos.org
+
 # HERMES
 myhermes.de
 www.myhermes.de
@@ -306,6 +311,12 @@ eic-ngfts.lge.com # LG TV
 ngfts.lge.com # LG TV
 su-ssl.lge.com # LG TV
 snu.lge.com # LG TV
+
+# MAIL-SERVER
+mail-api.proton.me # Proton Mail
+secureimap.t-online.de # Telekom T-Online Mail
+imap.gmx.net # GMX Mail
+imap.gmail.com # Google Mail
 
 # MICROSOFT
 ajax.aspnetcdn.com # MS AJAX CDN
@@ -422,6 +433,7 @@ poll.gras.samsungdm.com # Update Check
 signal.org
 chat.signal.org
 storage.signal.org
+grpc.chat.signal.org
 
 # STEAM
 ipv6check-udp.steamserver.net # IPv6 Check
@@ -607,3 +619,4 @@ realtime.ably.menti.com
 images.mentimeter.com
 static.mentimeter.com
 img01.ztat.net # Zalando Bilder CDN
+ntfy.sh # NTFY App
