@@ -438,12 +438,16 @@ grpc.chat.signal.org
 
 # STEAM
 ipv6check-udp.steamserver.net # IPv6 Check
+steamcommunity.com
+api.steampowered.com
 steamcloud-frf.s3.dualstack.eu-central-1.amazonaws.com # Steam Cloud Sync
 steamcloud-dub.s3.dualstack.eu-west-1.amazonaws.com # Steam Cloud Sync
 shared.akamai.steamstatic.com # Store Stuff
 steamcommunity-a.akamaihd.net # Store and Community Stuff
 shared.steamstatic.com # Store Stuff
 avatars.akamai.steamstatic.com # Avatar-Server
+store.steampowered.com
+steamcdn-a.akamaihd.net
 
 # UBIQUITY
 www.ui.com # Website und Firmware-Download-Repo
