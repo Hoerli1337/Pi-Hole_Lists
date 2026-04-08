@@ -399,6 +399,7 @@ live.thunderbird.net # Dont know why blocked
 location.services.mozilla.com # Better than Google Location Service
 www.mozilla.org # Dont know why blocked
 tracking-protection.cdn.mozilla.net # Mozilla Tracking Protection
+detectportal.firefox.com # Firefox Captive Portal Check
 
 # NETATMO
 app.netatmo.net
