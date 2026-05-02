@@ -45,6 +45,8 @@ static-cdn.jtvnw.net # Twitch CDN Server
 static.twitchcdn.net # Twitch CDN Servers
 m.media-amazon.com # Amazon Images Server
 images-eu.ssl-images-amazon.com # Amazon Images Server
+[A-Za-z0-9]+\.contribute\.live-video\.net # Twitch Stream-Server Input
+ingest.global-contribute.live-video.net # Twitch Stream-Server Input
 
 # APPLE
 amp-api-edge.apps.apple.com # Needed that Apple Devices works
