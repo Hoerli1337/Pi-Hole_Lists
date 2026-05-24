@@ -439,6 +439,7 @@ signal.org
 chat.signal.org
 storage.signal.org
 grpc.chat.signal.org
+updates2.signal.org
 
 # STEAM
 ipv6check-udp.steamserver.net # IPv6 Check
