@@ -267,6 +267,9 @@ dl.google.com # Download-Server for Software
 redirector.gvt1.com	
 lens.google.com	# Google Lense
 play-fe.googleapis.com # Google Play Store
+clients3.google.com # Manche Apps brauchen das
+packages.cloud.google.com
+google.com # Hauptseite bei einigen Filterlisten blockiert
 
 # GRAPHENOS
 connectivitycheck.grapheneos.network
@@ -370,11 +373,11 @@ www.xbox.com # Xbox Server
 xnotify.xboxlive.com # Xbox Server to send fried-requests and invites
 slscr.update.microsoft.com # Windows Updates
 static-webservicesops.akamaized.net # Dont know why blocked
-linkedin.com # Needed for LinkedIn Website to work
-www.linkedin.com # Needed for LinkedIn Website to work
-dms.licdn.com # Needed for LinkedIn Website to work
-media.licdn.com # Needed for LinkedIn Website to work
-static.licdn.com # Needed for LinkedIn Website to work
+linkedin.com # Needed for Linked Website to work
+www.linkedin.com # Needed for Linked Website to work
+dms.licdn.com # Needed for Linked Website to work
+media.licdn.com # Needed for Linked Website to work
+static.licdn.com # Needed for Linked Website to work
 minecraft.net # Minecraft Website
 www.minecraft.net # Minecraft Website
 www.minecraft.net-v1.edgesuite.net # Minecraft Website
@@ -404,6 +407,8 @@ location.services.mozilla.com # Better than Google Location Service
 www.mozilla.org # Dont know why blocked
 tracking-protection.cdn.mozilla.net # Mozilla Tracking Protection
 detectportal.firefox.com # Firefox Captive Portal Check
+push.service.mozilla.com # Push-Dienst wird auch von anderen FOSS-Apps genutzt
+versioncheck-bg.addons.mozilla.org # AddOn Update-Check oder sowas
 
 # NETATMO
 app.netatmo.net
@@ -453,6 +458,9 @@ shared.steamstatic.com # Store Stuff
 avatars.akamai.steamstatic.com # Avatar-Server
 store.steampowered.com
 steamcdn-a.akamaihd.net
+p2p-fra1.discovery.steamserver.net
+p2p-fra2.discovery.steamserver.net
+p2p-ams1.discovery.steamserver.net
 
 # UBIQUITY
 www.ui.com # Website und Firmware-Download-Repo
@@ -511,6 +519,10 @@ ocsp.sectigo.com # SSL-Zertifikat Sperrlisten - Sind wichtig
 ocsp.comodoca.com # SSL-Zertifikat Sperrlisten - Sind wichtig
 ocsp.digicert.com # SSL-Zertifikat Sperrlisten - Sind wichtig
 acme.zerossl.com # For ACME Script
+ts-crl.ws.symantec.com
+ts-ocsp.ws.symantec.com
+sv.symcb.com
+sv.symcd.com
 
 # STUFF
 media[0-9]+\.giphy\.com # Dont know why blocked
@@ -630,3 +642,13 @@ images.mentimeter.com
 static.mentimeter.com
 img01.ztat.net # Zalando Bilder CDN
 ntfy.sh # NTFY App
+updates-cdn.bravesoftware.com
+stats.hoerli.net
+api.meshtastic.org
+sdc-next-statics-prod.dcp.stroeerws.de
+mail.zeitschriften.burda.com
+api.revanced.app
+www.coral.ai
+docker.n8n.io
+www.docker.com
+streamlabs.com
