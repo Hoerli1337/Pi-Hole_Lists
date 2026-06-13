@@ -270,6 +270,7 @@ play-fe.googleapis.com # Google Play Store
 clients3.google.com # Manche Apps brauchen das
 packages.cloud.google.com
 google.com # Hauptseite bei einigen Filterlisten blockiert
+encrypted-tbn0.gstatic.com # Google Suche Bilder-Anzeige
 
 # GRAPHENOS
 connectivitycheck.grapheneos.network
