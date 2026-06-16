@@ -91,8 +91,21 @@ swrvod-pckgr.akamaized.net
 
 # BlueSky
 bsky.app
-www.bsky.app
+api.bsky.app
+public.api.bsky.app
 cdn.bsky.app
+video.cdn.bsky.app
+video.bsky.app
+web-cdn.bsky.app
+workers.bsky.app
+app-config.workers.bsky.app
+live-events.workers.bsky.app
+b-cdn.net
+bsky.b-cdn.net
+bsky-api.public.b-cdn.net
+bsky-video.b-cdn.net
+bsky-video-origin.b-cdn.net
+bsky-web.b-cdn.net
 bsky.network
 
 # CRYPTO
