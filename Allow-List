@@ -285,6 +285,7 @@ clients3.google.com # Manche Apps brauchen das
 packages.cloud.google.com
 google.com # Hauptseite bei einigen Filterlisten blockiert
 encrypted-tbn0.gstatic.com # Google Suche Bilder-Anzeige
+streetviewpixels-pa.googleapis.com # Streetview Fotos
 
 # GRAPHENOS
 connectivitycheck.grapheneos.network
