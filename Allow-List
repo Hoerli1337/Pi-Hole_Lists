@@ -177,6 +177,24 @@ forums.ubisoft.com # Was blocked
 ingame-news.ubi.com # Dont know why blocked
 ubistatic2-a.akamaihd.net # Ubisoft Store
 uplaypc-s-ubisoft.cdn.ubi.com # Ubisoft Update Server
+static3.cdn.ubi.com # Client
+game-status-api.ubisoft.com # Client Game-Downloads Infos
+ubiservices.cdn.ubi.com # Client Game-Downloads
+store.ubi.com # Store
+public-ubiservices.ubi.com # Client
+channel-service.upc.ubi.com # Client
+store-sessions.ecom.ubi.com # Store
+public-ws-ubiservices.ubi.com # Client
+dd.ubisoft.com # Login
+game-status-api.ubisoft.com # Client
+files.cdn.ubisoft.com
+dmx.upc.ubisoft.com # Store
+ecom-cdn.ubi.com # Store
+ubistatic-a.ubisoft.com # Store
+ubistatic2-a.ubisoft.com # Store
+connect.ubisoft.com # Client
+staticctf.ubisoft.com # Store
+ubistatic-a.ubisoft.com # Store
 # €A
 gosca18.ea.com # €A Server
 gosredirector.ea.com # €A Server
