@@ -286,6 +286,7 @@ packages.cloud.google.com
 google.com # Hauptseite bei einigen Filterlisten blockiert
 encrypted-tbn0.gstatic.com # Google Suche Bilder-Anzeige
 streetviewpixels-pa.googleapis.com # Streetview Fotos
+gz0.googleusercontent.com # Google Maps Fotos und Streetview
 
 # GRAPHENOS
 connectivitycheck.grapheneos.network
