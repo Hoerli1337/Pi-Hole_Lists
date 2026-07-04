@@ -307,6 +307,7 @@ streetviewpixels-pa.googleapis.com # Streetview Fotos
 gz0.googleusercontent.com # Google Maps Fotos und Streetview
 
 # GRAPHENOS
+[A-Za-z0-9]+-dnsotls-ds\.dnscheck\.grapheneos\.org # DNS-over-TLS Check
 connectivitycheck.grapheneos.network
 grapheneos.online
 supl.grapheneos.org
