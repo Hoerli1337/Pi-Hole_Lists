@@ -53,6 +53,14 @@ amp-api-edge.apps.apple.com # Needed that Apple Devices works
 amp-api-search-edge.apps.apple.com # Needed that Apple Devices works
 iadsdk.apple.com # Needed that some Apple-Devices works
 sf-api-token-service.itunes.apple.com # needed for iTunes Store to work
+time.apple.com # NTP time sync. The most frequent thing in the log. Just asking the time.
+ocsp2.apple.com # certificate revocation - notarization checks
+gdmf.apple.com # software update check
+api.apple-cloudkit.com # iCloud/CloudKit sync for my own apps. Opted in by signing in
+bag.itunes.apple.com # App Store - Media services config
+1-courier.push.apple.com # APNs push notifications. One persistent connection, expected
+gsp-ssl.ls.apple.com # Location Services wifi-location assist
+apple-relay.cloudflare.com # iCloud Private Relay. A privacy feature, not extraction
 
 # ARD - DAS ERSTE
 ard.de
